@@ -6,7 +6,7 @@ let age=20;
 console.log("My age is this: ", age); 
 
 //string
-let a ="Avinash";
+let a ="Satish";
 
 console.log("Hi,my name is:",a);
 
@@ -14,7 +14,7 @@ console.log("Hi,my name is:",a);
 
 let b = true;
 
-let e = "Avinash";
+let e = "Satish";
 const i = 25;
 console.log("Hi,my age is:",i);
 console.log("this is my name:",e);
@@ -66,13 +66,13 @@ function div(){
 
 div();
 
-let fname="Avinash";
+let fname="Satish";
 console.log(fname);
 
 function print(){
     console.log(sname);
 }
 
-let sname="Pawar";
+let sname="Chaurasiya";
 
 print();

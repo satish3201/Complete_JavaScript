@@ -5,13 +5,13 @@
 let a = 24;
 console.log("value of let:",a);
 
-let fname ="Avinash";
+let fname ="Satish";
 console.log(fname);
 
 
 function print(){
     console.log(sname); 
 }
-let sname="Pawar";
+let sname="Chaurasiya";
 
 print();
