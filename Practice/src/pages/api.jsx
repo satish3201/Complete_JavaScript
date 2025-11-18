@@ -18,7 +18,7 @@ const api = () => {
         fetchData();
     }, [])
     return (
-        <div>x`x`
+        <div>
             {
                 products.map((products) => (
                     <div>
